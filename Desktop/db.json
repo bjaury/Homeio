@@ -1,0 +1,28 @@
+{
+  "Room1": {
+    "status": {
+      "id": 1,
+      "msg": "OK"
+    },
+    "temperature": {
+      "value": 75.03936694136999
+    },
+    "temperature_History": [],
+    "light": {
+      "value": false
+    }
+  },
+  "Room2": {
+    "status": {
+      "id": 1,
+      "msg": "OK"
+    },
+    "temperature": {
+      "value": 77.70922924135574
+    },
+    "temperature_History": [],
+    "light": {
+      "value": false
+    }
+  }
+}
